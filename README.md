@@ -1,2 +1,1 @@
-# hello-world
-Repositório para praticar o GitHub.
+#### Aprendendo a usar o GitHub
